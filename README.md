@@ -1,4 +1,7 @@
-# Flutter project Demo on My Personal Blog
+# Flutter Fitness App
+
+- Part 1: https://youtu.be/16Hp5EB71Wo
+
 
 - My personal blog: [https://www.aicodeday.com/](https://www.aicodeday.com/)
 
